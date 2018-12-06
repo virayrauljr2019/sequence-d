@@ -1,2 +1,2 @@
 # sequence-d
-had trouble with this assignment
+I had a hard time doing the code
