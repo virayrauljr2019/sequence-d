@@ -1,0 +1,27 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=57541:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/raulvirayjr/IdeaProjects/homework/out/production/homework Main
+perfect square:
+1.0
+4.0
+9.0
+16.0
+25.0
+36.0
+49.0
+64.0
+81.0
+100.0
+Perfect Cubes:
+1.0
+8.0
+27.0
+64.0
+125.0
+216.0
+343.0
+512.0
+729.0
+1000.0
+
+Fibonacci Sequence
+
+Prime Numbers
